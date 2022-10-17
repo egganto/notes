@@ -18,5 +18,6 @@ C = {1,3,5,6}
 - examples
   - combinations of different items
     > to make a combination for 5 hats, 6 sunglasses, and 3 pairs of flipflops
+    
     > 5 * 6 * 3 = 90
-    you can have 90 combinations of hats, sunglasses, and flip-flops
+    <sup>you can have 90 combinations of hats, sunglasses, and flip-flops</sup>
