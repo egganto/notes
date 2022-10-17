@@ -1,7 +1,7 @@
 # probabilities
 
 ## counting methods review
-### sample space, sets
+#### sample space, sets
 S = {1,2,3,4,5,6}
 
 A = {1,2,4}
@@ -15,9 +15,9 @@ C = {1,3,5,6}
 | A U B | C ∩ B | C' |
 | {1,2,3,4,5} | {3,5} | {2,4} |
 
-##### examples
+#### permutations and combinations
 - counting methods of different items
-  ```
+  ```math
   to make a combination for 5 hats, 6 sunglasses, and 3 pairs of flipflops
   5 * 6 * 3 = 90
   ```
@@ -42,4 +42,20 @@ when order doesn't really matter
 ### probability
 ```math
 P(Event) = \frac{N(E)}{N(S)}
+```
+P(E), is equal to the number of outcomes for that event to occur, N(E), divided by the total number of outcomes possible, N(S).
+
+- summary
+N(E) = number of outcomes for Event to occur
+N(S) = number of outcomes possible
+
+##### example
+**coinflip**
+say, we have a coin and we want to flip for heads. what are the chances we'll actually flip heads?
+
+```math
+let N(E) = 1 (out of 2 options, h&t)
+    N(S) = 2
+
+P(E) = \frac{1}{2} = 0.5 * 100 = 50%
 ```
