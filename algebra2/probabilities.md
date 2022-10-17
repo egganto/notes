@@ -49,7 +49,7 @@ P(E), is equal to the number of outcomes for that event to occur, N(E), divided 
 N(E) = number of outcomes for Event to occur
 N(S) = number of outcomes possible
 
-##### example
+#### example
 **coinflip**
 
 say, we have a coin and we want to flip for heads. what are the chances we'll actually flip heads?
@@ -59,3 +59,34 @@ let N(E) = 1 (out of 2 options, h&t)
 ```math
 P(E) = \frac{1}{2} = 0.5 * 100 = 50%
 ```
+
+### theoretical vs. experimental probability
+
+| | description |
+| --- | --- |
+| theoretical probability | measures the probability of what SHOULD occur in an experiment |
+| experimental probability | measures the probability of what DOES occur in an experiment |
+
+both theoretical and experimental probabilities have the same notation
+```math
+P(E) = \frac{N(E)}{N(S)}
+```
+
+**uniform probability model** - all outcomes are equally likely to occur
+
+### complement equation
+the probability of something other than the Event to occur
+
+```math
+P(E)’ = 1 – P(E)
+```
+
+### compound probability
+when two or more events occur
+
+```math
+P(A ∩ B) = P(A) ∙ P(B)
+```
+
+### addition rule of probability
+when either Event A OR B will occur
