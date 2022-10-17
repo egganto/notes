@@ -17,8 +17,8 @@ C = {1,3,5,6}
 
 #### permutations and combinations
 - counting methods of different items
+  - to make a combination for 5 hats, 6 sunglasses, and 3 pairs of flipflops
   ```math
-  to make a combination for 5 hats, 6 sunglasses, and 3 pairs of flipflops
   5 * 6 * 3 = 90
   ```
   you can have 90 combinations of hats, sunglasses, and flip-flops
@@ -51,11 +51,11 @@ N(S) = number of outcomes possible
 
 ##### example
 **coinflip**
+
 say, we have a coin and we want to flip for heads. what are the chances we'll actually flip heads?
 
-```math
 let N(E) = 1 (out of 2 options, h&t)
     N(S) = 2
-
+```math
 P(E) = \frac{1}{2} = 0.5 * 100 = 50%
 ```
