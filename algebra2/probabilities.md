@@ -25,17 +25,17 @@ C = {1,3,5,6}
 
 - permutations
 when order matters
-  ```
-  <sub>n</sub>P<sub>r</sub> = n!/(n-r)!
-  ```
+
+  nPr = \frac{n!}{(n - r)!}
   
 - combinations
 when order doesn't really matter
-  ```
-  <sub>n</sub>C<sub>r</sub> = n!/((n-r)!r!)
-  
-  ```
+
+  nCr = \frac{n!}{(n - r)!r!}
 
 - stuff
   n = number of objects
   r = number of objects selected
+
+### probability
+P(Event) = \frac{N(E)}{N(S)}
