@@ -17,7 +17,7 @@ C = {1,3,5,6}
 
 #### permutations and combinations
 - counting methods of different items
-  - to make a combination for 5 hats, 6 sunglasses, and 3 pairs of flipflops
+  to make a combination for 5 hats, 6 sunglasses, and 3 pairs of flipflops
   ```math
   5 * 6 * 3 = 90
   ```
@@ -90,3 +90,18 @@ P(A ∩ B) = P(A) ∙ P(B)
 
 ### addition rule of probability
 when either Event A OR B will occur
+```math
+P(A U B) = P(A) + P(B) – P(A ∩ B)
+```
+
+### independent conditional probability
+the probability of an event occuring if another given event occured first
+
+#### independent events
+```math
+P(A|B) = \frac{P\left( A \cap B \right)}{P\left( B \right)} = \frac{P\left( A \right)P\left( B \right)}{P\left( B \right)} = P\left( A \right)
+```
+
+```math
+P(B|A) = \frac{P(B \cap A)}{P(A)} = \frac{P(B)P(A)}{P(A)} = P(B)
+```
