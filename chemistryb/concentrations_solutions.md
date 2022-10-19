@@ -12,11 +12,11 @@ there are several ways to express the concentration of a solution:
 
 by mass
 ```math
-percent by mass = \frac{mass of solute}{mass of solution} * 100
+percent\,by\,mass = \frac{mass\,of\,solute}{mass\,of\,solution} * 100
 ```
 by volume
 ```math
-percent by volume = \frac{volume of solute}{volume of solution} * 100
+percent\,by\,volume = \frac{volume\,of\,solute}{volume\,of\,solution} * 100
 ```
 percent by volume is used when liquids or gases are the solute
 
@@ -28,15 +28,16 @@ percent by volume is used when liquids or gases are the solute
 ppm tells us how many parts a solute makes up of a million (10<sup>6</sup>) parts of a solution
 this also tells us the mass in mg of solute in one L of solution 
 ```math
-parts per million = \frac{mass of solute}{mass of solution} * 10^{6} = \frac{mg solute}{L solution}
+parts\,per\,million = \frac{mass\,of\,solute}{mass\,of\,solution} * 10^{6} = \frac{mg\,solute}{L\,solution}
 ```
 ppb tells us how many parts a solute makes up of a billion (10<sup>9</sup>) parts of a solution
 this also tells us the mass in micrograms of solute in one L of solution
 ```math
-parts per billion = \frac{mass of solute}{mass of solution} * 10^{9} = \frac{microgram solute}{L solution}
+parts\,per\,billion = \frac{mass\,of\,solute}{mass\,of\,solution} * 10^{9} = \frac{microgram\,solute}{L\,solution}
 ```
 
 the unit ppm is often associated with the concentration of pollutants when measuring water quality in rivers, lakes, etc.
+
 
 ### molarity
 - a common way to express concentration
@@ -47,6 +48,17 @@ the unit ppm is often associated with the concentration of pollutants when measu
 molarity\,(M) = \frac{moles\,of\,solute}{liters\,of\,solution}
 ```
 the unit for molarity is mol/L and is abbr as M (molar)
+
+### dilution
+
+```math
+M_{1}V_{1} = M_{2}V_{2}
+```
+where:
+   M<sub>1</sub> and V<sub>1</sub> represent the molarity and volume of the stock solution
+   M<sub>2</sub> and V<sub>2</sub> represent the molarity and volume of the dilute solution
+
+V can be any unit but has to be the same on both sides
 
 
 #### vocabulary
