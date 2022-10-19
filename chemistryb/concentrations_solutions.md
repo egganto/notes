@@ -44,7 +44,7 @@ the unit ppm is often associated with the concentration of pollutants when measu
 - chemists use this more in the laboratory
 
 ```math
-molarity (M) = \frac{moles of solute}/{liters of solution}
+molarity\,(M) = \frac{moles\,of\,solute}{liters\,of\,solution}
 ```
 the unit for molarity is mol/L and is abbr as M (molar)
 
