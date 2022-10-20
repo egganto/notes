@@ -105,3 +105,11 @@ P(A|B) = \frac{P\left( A \cap B \right)}{P\left( B \right)} = \frac{P\left( A \r
 ```math
 P(B|A) = \frac{P(B \cap A)}{P(A)} = \frac{P(B)P(A)}{P(A)} = P(B)
 ```
+
+### dependent conditional probability
+the probability that the second event occurs, given that the first event has already occured
+
+#### dependent events
+```math
+P(A)\neq0, P(B|A)=\frac{P(A\,and\,B)}{P(A)}
+```
