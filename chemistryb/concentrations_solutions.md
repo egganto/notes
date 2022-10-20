@@ -60,8 +60,32 @@ where:
 
 V can be any unit but has to be the same on both sides
 
+### colligative properties of solutions
+- physical properties of solutions that are affected by the amount of dissolved solute—but not the identity of the solute
+- affected by a chaange in the concentration of a solute
 
-#### vocabulary
+#### vapor pressure depression
+- the pressure exerted on the walls of a closed container by the gas particles that have evaporated from the enclosed liquid
+- an *increase* in the **concentration of a solute** will cause the **vapor pressure of the solution** to *decrease*
+  - an *increase* in **solute** *decreases* the *number of solvent particles to evaporate*
+
+#### boiling point elevation
+- the temperature when the vapor pressure is equal to the pressure exerted by the surroundings of the liquid
+- an *increase* in the **concentration of a solute** will cause the **boilin point of the solution** to *increase*
+  - the *increased* **presence of solute** at the surface of a liquid decreases the number of solvent particles to evaporate (more energy needed to happen)
+
+#### freezing point depression
+- the temperature when molecules in the liquid phase transfer into the solid phase
+- an *increase* in the **concentration of a solute** will cause the **freezing point of the solution** to *decrease* 
+  - the solute get in the way of the solvent particles' abilitty to arrange as a solid form
+
+#### osmotic pressure elevation
+- through the process of osmosis, the particles of water pass through the semiperemable membrane from an area of higher solvent concentration to an area of lower solvent concentration
+- An increase in the concentration of a solute will cause the osmotic pressure to increase
+- more water molecules will move across the membrane, increasing the pressure of the flow
+
+
+### vocabulary
 
 | word | definition |
 | --- | --- |
@@ -71,5 +95,6 @@ V can be any unit but has to be the same on both sides
 | **solvent** | the substance that is present in the larger amount |
 | **concentrated** | contains a large amount of solute |
 | **dilute** | contains a small amount of solute |
-
+| **semipermeable membranes** | barriers that allow ***some*** particles to pass through |
+| **osmosis** | the movement of solvent particles across a semipermeable membrane from an area of higher solvent concentration to an area of lower solvent concentration |
 
