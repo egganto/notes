@@ -21,7 +21,8 @@
 k = total number of data values
 x<sub>n</sub> = each data value
 
-#### calculating standard deviation
+| calculating standard deviation |
+| --- |
 | **step 1**: compute the mean (x) of the data set |
 | **step 2**: subtract x from each data value, then square the result
 
