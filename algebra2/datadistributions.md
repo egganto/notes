@@ -14,6 +14,6 @@
 ### standard deviation
 
 ```math
-\sigma = \sqrt{\frac{1}{k}\sum_{n=1}^k(n_n-x)^2
+\sigma = \sqrt{\frac{1}{k}\sum_{n=1}^k(n_n-x)^2}
 ```
 
