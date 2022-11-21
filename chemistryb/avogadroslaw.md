@@ -28,7 +28,7 @@ R = an experimentally determined constant referred to as the ideal gas constant
 
 #### atm
 ```math
-R = 0.08206 \frac{L+atm}{mol*k}
+R = 0.08206 \frac{L*atm}{mol*k}
 ```
 
 #### kPa
