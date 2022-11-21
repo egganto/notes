@@ -40,3 +40,11 @@ R = 8.314 \frac{L*kPa}{mol*K}
 ```math
 R = 62.4 \frac{L*mmHg}{mol*K}
 ```
+
+# ideal vs real gases
+
+| Feature | Ideal Gases | Real Gases |
+|---|---|---|
+| Particle Size | Ideal gas particles have no volume. | Real gas aprticles have size and dimension. |
+| Attractiive Forces | Ideal gas particles exert no attractive or repulsive forces (IMFs) on each other | Real gas particles ecert IMFs on each other and can attract or repel other gas particles. |
+| Particle Motion | Ideal gas particles always travel in straight lines. | Real gas particles might travel in curved paths because of  attractions or repulsions to other gas particles. |
