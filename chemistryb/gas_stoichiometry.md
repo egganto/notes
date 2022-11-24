@@ -27,6 +27,6 @@ volume\,given\,*\frac{L\,desired}{L\,given}=\,volume desired
 example
 
 ```math
-24.8g\,Al*\frac{1\,mol\,Al}{26.98/,g/,Al}*\frac{3\,mol\,O_2}{4\,mol\,Al}*\frac{22.4\,L\,O_2}{1\,mol\,O_2}=15.4\,L\,O_2
+24.8g\,Al*\frac{1\,mol\,Al}{26.98\,g\,Al}*\frac{3\,mol\,O_2}{4\,mol\,Al}*\frac{22.4\,L\,O_2}{1\,mol\,O_2}=15.4\,L\,O_2
 ```
 
