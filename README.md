@@ -6,7 +6,7 @@ some notes for school
 
 | |morning classes|afternoon classes|
 |---|---|---|
-|algebra 2|https://calendly.com/eduww-chad/algebra-2-morning-shift|https://calendly.com/eduww-chad/algebra-2-afternoon-shift|
+|algebra 2|https://calendly.com/nikola-eduww/algebra-2-morning-shift|https://calendly.com/eduww-chad/algebra-2-afternoon-shift|
 |chemistry|https://calendly.com/sarah_eduww/chemistry-1|https://calendly.com/sarah_eduww/chemistry-2|
 |language arts|https://calendly.com/teacher-sergiopantoja/language-arts-11a|https://calendly.com/teacher-sergiopantoja/english3-latam-timezone|
 |social studies|https://calendly.com/ann-eduww/social-studies-11-morning-shift|https://calendly.com/lukesawyer/social-studies-11-afternoon-shift|
