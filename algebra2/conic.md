@@ -20,6 +20,9 @@ x^2+y^2=r^2
 
 # ellipses
 ### standard equation of an ellipse
++ the larger denominator is the major axis
++ if the larger denominator is under x<sup>2</sup>, the ellipse will have a horizontal ori    entation and vice versa
+
 ```math
 \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
 ```
@@ -34,9 +37,6 @@ x^2+y^2=r^2
 | Minor Axis | 2b | 2b |
 
 ### equation of an ellipse centered at (h, k)
-
-+ the larger denominator is the major axis
-+ if the larger denominator is under x<sup>2</sup>, the ellipse will have a horizontal orientation and vice versa
 
 ```math
 \frac{(x-h)^2}{a^2}+\frac{(y-k)^2}{b^2}=1
