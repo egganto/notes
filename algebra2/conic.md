@@ -49,7 +49,7 @@ or
 ```
 
 # parabola
-### standard eqation of a parabola
+### standard equation of a parabola
 + when a > o, the parabola opens upwards and has a minimum
 + when a < 0, the parabola opens downwards and has a maximum
 
@@ -58,14 +58,14 @@ y = a(x-h)^2+k
 ```
 
 # hyperbola
-### standard eqation of a hyperbola
+### standard equation of a hyperbola
 
 horizontal
-```
+```math
 \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
 ```
 
 vertical
-```
+```math
 \frac{y^2}{a^2}-\frac{x^2}{b^2}=1
 ```
