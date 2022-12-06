@@ -47,3 +47,25 @@ or
 ```math                                       
 \frac{(x-h)^2}{b^2}+\frac{(y-k)^2}{a^2}=1
 ```
+
+# parabola
+### standard eqation of a parabola
++ when a > o, the parabola opens upwards and has a minimum
++ when a < 0, the parabola opens downwards and has a maximum
+
+```math
+y = a(x-h)^2+k
+```
+
+# hyperbola
+### standard eqation of a hyperbola
+
+horizontal
+```
+\frac{x^2}{a^2}-\frac{y^2}{b^2}=1
+```
+
+vertical
+```
+\frac{y^2}{a^2}-\frac{x^2}{b^2}=1
+```
