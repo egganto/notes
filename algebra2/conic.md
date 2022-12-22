@@ -31,7 +31,7 @@ x^2+y^2=r^2
 
 | Orientation | Horizontal | Vertical |
 | --- | --- | --- |
-| **Equation in Standard Form** | $math \frac{x^2}{a^2}+\frac{y^2}{b^2}=1$ | $math \frac{x^2}{b^2}+\frac{y^2}{a^2}=1$ |
+| **Equation in Standard Form** | $\frac{x^2}{a^2}+\frac{y^2}{b^2}=1$ | $\frac{x^2}{b^2}+\frac{y^2}{a^2}=1$ |
 | Foci | (c, 0) and (-c, 0) | (0,c) and (0, -c) |
 | Major Axis | 2a | 2a |
 | Minor Axis | 2b | 2b |
