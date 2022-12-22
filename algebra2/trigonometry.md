@@ -16,10 +16,10 @@
 ## trigonometric ratios
 + a ratio between two sides of a right triangle
 + three primary trigonometric ratios (trigonometric functions)
- - sine (sin)
- - cosine (cos)
- - tangent (tan)
- - a given angle in a right triangle is called theta
+  - sine (sin)
+  - cosine (cos)
+  - tangent (tan)
+  - a given angle in a right triangle is called theta
 
 ```math
 sin(\Theta)=\frac{opposite}{adjacent}
@@ -32,6 +32,6 @@ tan(\Theta)=\frac{opposite}{adjacent}
 ```
 __**SOH-CAH-TOA**__
 
-+ SOH: **s**ine equals **o**pposite over **h**ypotenuse
-+ CAH: **c**osine equals **a**djacent over **h**ypotenuse
-+ TOA: **t**angent equals **o**pposite over **a**djacent
++ SOH: __**s**__ine equals __**__o__**__pposite over __**__h__**__ypotenuse
++ CAH: __**__c__**__osine equals __**__a__**__djacent over __**__h__**__ypotenuse
++ TOA: __**__t__**__angent equals __**__o__**__pposite over __**__a__**__djacent
