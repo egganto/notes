@@ -145,6 +145,8 @@ c^2=a^2+b^2-2ac\,cos\,C
 ## the unit circle
 ![unit circle](https://s3.amazonaws.com/cms.accelerate-ed.com/image/deff16f5-e540-4815-b9b2-d1377b8b38a4.jpg)
 
+| trig func | equal to |
+| --- | --- |
 | sin | y |
 | cos | x |
 | tan | $\frac{y}{x}$ |
