@@ -121,7 +121,7 @@ x\,rad=2\pi\frac{n\degree}{360\degree}
   - side-side-angle (SSA, ambiguous)
 
 ```math
-\frac{a}{sin\,A}=\frac{b}{sin\,B}=\frac{c}{sin\,C\}
+\frac{a}{sin\,A}=\frac{b}{sin\,B}=\frac{c}{sin\,C}
 ```
 
 the numerator and denominator positions can be interchanged (flipped)
