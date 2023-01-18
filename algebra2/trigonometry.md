@@ -114,4 +114,39 @@ x\,rad=2\pi\frac{n\degree}{360\degree}
 + $60\degree$ is equal to $\frac{2\pi}{6}$, or $\frac{\pi}{3}\,rad$
 + $90\degree$ is equal to $\frac{3\pi}{6}$, or $\frac{\pi}{2}\,rad$, and so on
 
+# law of sines
++ is applicable to:
+  - angle-angle-side (AAS)
+  - angle-side-angle (ASA)
+  - side-side-angle (SSA, ambiguous)
+
+```math
+\frac{a}{sin\,A}=\frac{b}{sin\,B}=\frac{c}{sin\,C\}
+```
+
+the numerator and denominator positions can be interchanged (flipped)
+
+# law of cosines
++ is applicable to:
+  - side-angle-side (SAS)
+  - side-side-side (SSS)
+
+```math
+a^2=b^2+c^2-2bc\,cos\,A
+```
+```math
+b^2=a^2+c^2-2ac\,cos\,B
+```
+```math
+c^2=a^2+b^2-2ac\,cos\,C
+```
+
+# circular functions
+## the unit circle
+![unit circle](https://s3.amazonaws.com/cms.accelerate-ed.com/image/deff16f5-e540-4815-b9b2-d1377b8b38a4.jpg)
+
+| sin | y |
+| cos | x |
+| tan | $\frac{y}{x}$ |
+
 
