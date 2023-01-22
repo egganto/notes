@@ -36,7 +36,7 @@ moles\,of\,H_3O^+=moles\,of\,OH^-
 
 + between a titrant and an unknown concentration
 
-(titration experiment)[https://s3.amazonaws.com/content.accelerate-ed.com/Secondary/docs/Chemistry/img/M11.L4_page4_image01.jpg]
+![titration experiment](https://s3.amazonaws.com/content.accelerate-ed.com/Secondary/docs/Chemistry/img/M11.L4_page4_image01.jpg)
 
 | lab equipment | name |
 | :--- | :--- |
