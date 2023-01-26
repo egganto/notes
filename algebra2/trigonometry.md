@@ -151,4 +151,13 @@ c^2=a^2+b^2-2ac\,cos\,C
 | cos | x |
 | tan | $\frac{y}{x}$ |
 
+# periodic functions
+```math
+Amplitude=\frac{Maximum - Minimum}{2}
+```
+```math
+Midline=\frac{Maximum + Minimum}{2}
+```
 
+# graphing ....
+![unit circle](https://s3.amazonaws.com/cms.accelerate-ed.com/image/c920f3cb-9384-48d8-9d6a-f096a8556485.jpg)
