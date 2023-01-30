@@ -162,7 +162,8 @@ Midline=\frac{Maximum + Minimum}{2}
 # graphing trigonometric functions
 ![unit circle](https://s3.amazonaws.com/cms.accelerate-ed.com/image/c920f3cb-9384-48d8-9d6a-f096a8556485.jpg)
 
-$f(x)$ = A trig($Bx$)
+$f(x) = A\,trig(Bx)$
+
 + $A$ = the amplitude (for sine and cosine)
 + $B$ = the frequency
 
@@ -170,3 +171,13 @@ $B=\frac{2\pi}{T}$
 + $T$ = period
 
 $B_{tan}=\frac{\pi}{T}$
+
+# translating trigonometric graphs
+```math
+f(x)=A\, trig(B(\theta+C))+D
+```
+> A = amplitude ("vertical stretch")
+> B = frequency ("horizontal stretch")
+> C = phase shift ("horizontal shift")
+> D = vertical shift
+
