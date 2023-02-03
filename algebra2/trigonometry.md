@@ -181,4 +181,42 @@ f(x)=A\, trig(B(\theta+C))+D
     C = phase shift ("horizontal shift")
     D = vertical shift
 
+# reciprocal trigonometric functions
+### cosecant
+![cosecant graph](https://s3.amazonaws.com/content.accelerate-ed.com/Secondary/docs/Algebra2/new_assets/images/11.1_pg8a.png)
+
+```math
+csc = \frac{1}{sin}
+```
+
++ is > 1 and < -1
++ doesn't have an intercept
++ asymptote at multiples of 90
+
+### secant
+
+```math
+secant = \frac{1}{cosine}
+```
+
++ is > 1 and < -1
++ doesn't have an intercept
++ asymptote at 90 and then multiples of 180
+
+
+### cotangent
+
+```math
+cot = \frac{1}{tangent}
+```
+
+# trigonometric identities
+
+**pythagorean identities**
+| identity | equation |
+| :---: | :---: |
+| sine and cosine | $sin^2\theta+cos^2\theta=1$ |
+| tangent and secant | $tan^2\theta+1=sec^2\theta$ |
+| cotangent and cosecant | $cot^2\theta+1=csc^2\theta$ |
+
 
