@@ -174,7 +174,7 @@ $B_{tan}=\frac{\pi}{T}$
 
 # translating trigonometric graphs
 ```math
-f(x)=A\, trig(B(\theta+C))+D
+f(x)=A\,trigo(B(\theta+C))+D
 ```
     A = amplitude ("vertical stretch")
     B = frequency ("horizontal stretch")
@@ -219,4 +219,16 @@ cot = \frac{1}{tangent}
 | tangent and secant | $tan^2\theta+1=sec^2\theta$ |
 | cotangent and cosecant | $cot^2\theta+1=csc^2\theta$ |
 
+**even-odd identities**
+| identity | equation | odd or even |
+| :---: | :---: | :---: |
+| sine | $sin(-\theta)=-sin\theta$ | odd |
+| cosine | $cos(-\theta)=cos\theta$ | even |
+| tangent | $tan(-\theta)=-tan\theta$ | odd |
 
+**cofunction identities** note: $\frac{\pi}{2}rad=90^\circ$
+| equation | "reciprocal" |
+| :---: | :---: |
+| $sin(\frac{\pi}{2}-\theta)=cos\theta$ | $cos(\frac{\pi}{2}-\theta)=sin\theta$ |
+| $tan(\frac{\pi}{2}-\theta)=cot\theta$ | $cot(\frac{\pi}{2}-\theta)=tan\theta$ |
+| $sec(\frac{\pi}{2}-\theta)=csc\theta$ | $csc(\frac{\pi}{2}-\theta)=sec\theta$ |
