@@ -21,15 +21,16 @@
   - tangent (tan)
   - a given angle in a right triangle is called theta
 
-```math
+$$
 sin(\Theta)=\frac{opposite}{adjacent}
-```
-```math
+$$
+$$
 cos(\Theta)=\frac{adjacent}{hypotenuse}
-```
-```math
+$$
+$$
 tan(\Theta)=\frac{opposite}{adjacent}
-```
+$$
+
 **SOH-CAH-TOA**
 
 + SOH: **s**ine equals **o**pposite over **h**ypotenuse
@@ -44,7 +45,7 @@ tan(\Theta)=\frac{opposite}{adjacent}
 2. trigonometric functions
   - SOH-CAH-TOA
 3. pythagorean theorem
-  - $ a^2+b^2=c^2 $
+  - $a^2+b^2=c^2$
 
 ## reciprocal trigonometry functions
 
@@ -65,14 +66,14 @@ tan(\Theta)=\frac{opposite}{adjacent}
 
 the ratio of the circumference of a circle is equal to $ \pi\,(3.14) $
 
-```math
+$$
 \pi=\frac{C}{d}
-```
+$$
  solving of C in the equation above gives us:
 
- ```math
+$$
 C=\pi d
- ```
+$$
 
  and since $ 2r=d $, you can also use $ C=2\pi r $
 
@@ -85,22 +86,22 @@ C=\pi d
 
 ## arcs
 arc length of a circle
-```math
+$$
 x=C\frac{n}{360}
-```
+$$
 
 approximate degree measure of an angle
-```math
+$$
 n=\frac{360x}{C}
-```
+$$
 
 ## radians
 + another unit to measure angles (rad)
 + uses the size of the arc to measure the angle
 
-```math
+$$
 x\,rad=2\pi\frac{n\degree}{360\degree}
-```
+$$
 
 ## common angles
 ![degree and radian measure](https://s3.amazonaws.com/cms.accelerate-ed.com/image/5dc7df75-9ef2-4c45-b8f8-eafa6a51eee7.jpg)
@@ -120,9 +121,9 @@ x\,rad=2\pi\frac{n\degree}{360\degree}
   - angle-side-angle (ASA)
   - side-side-angle (SSA, ambiguous)
 
-```math
+$$
 \frac{a}{sin\,A}=\frac{b}{sin\,B}=\frac{c}{sin\,C}
-```
+$$
 
 the numerator and denominator positions can be interchanged (flipped)
 
@@ -131,15 +132,15 @@ the numerator and denominator positions can be interchanged (flipped)
   - side-angle-side (SAS)
   - side-side-side (SSS)
 
-```math
+$$
 a^2=b^2+c^2-2bc\,cos\,A
-```
-```math
+$$
+$$
 b^2=a^2+c^2-2ac\,cos\,B
-```
-```math
+$$
+$$
 c^2=a^2+b^2-2ac\,cos\,C
-```
+$$
 
 # circular functions
 ## the unit circle
@@ -152,17 +153,18 @@ c^2=a^2+b^2-2ac\,cos\,C
 | tan | $\frac{y}{x}$ |
 
 # periodic functions
-```math
+$$
 Amplitude=\frac{Maximum - Minimum}{2}
-```
-```math
+$$
+$$
 Midline=\frac{Maximum + Minimum}{2}
-```
+$$
 
 # graphing trigonometric functions
 ![unit circle](https://s3.amazonaws.com/cms.accelerate-ed.com/image/c920f3cb-9384-48d8-9d6a-f096a8556485.jpg)
 
-$f(x) = A\trig(Bx)$
+$f(x) = A\,trig(Bx)$
+
 
 + $A$ = the amplitude (for sine and cosine)
 + $B$ = the frequency
@@ -173,9 +175,10 @@ $B=\frac{2\pi}{T}$
 $B_{tan}=\frac{\pi}{T}$
 
 # translating trigonometric graphs
-```math
-f(x)=A\,trigo(B(\theta+C))+D
-```
+$$
+f(x)=A\,trig(B(\theta+C))+D
+$$
+
     A = amplitude ("vertical stretch")
     B = frequency ("horizontal stretch")
     C = phase shift ("horizontal shift")
@@ -185,9 +188,9 @@ f(x)=A\,trigo(B(\theta+C))+D
 ### cosecant
 ![cosecant graph](https://s3.amazonaws.com/content.accelerate-ed.com/Secondary/docs/Algebra2/new_assets/images/11.1_pg8a.png)
 
-```math
+$$
 csc = \frac{1}{sin}
-```
+$$
 
 + is > 1 and < -1
 + doesn't have an intercept
@@ -195,9 +198,9 @@ csc = \frac{1}{sin}
 
 ### secant
 
-```math
+$$
 secant = \frac{1}{cosine}
-```
+$$
 
 + is > 1 and < -1
 + doesn't have an intercept
@@ -206,9 +209,9 @@ secant = \frac{1}{cosine}
 
 ### cotangent
 
-```math
+$$
 cot = \frac{1}{tangent}
-```
+$$
 
 # trigonometric identities
 
@@ -232,3 +235,11 @@ cot = \frac{1}{tangent}
 | $sin(\frac{\pi}{2}-\theta)=cos\theta$ | $cos(\frac{\pi}{2}-\theta)=sin\theta$ |
 | $tan(\frac{\pi}{2}-\theta)=cot\theta$ | $cot(\frac{\pi}{2}-\theta)=tan\theta$ |
 | $sec(\frac{\pi}{2}-\theta)=csc\theta$ | $csc(\frac{\pi}{2}-\theta)=sec\theta$ |
+
+# sum and difference identities
+
+|identity|sum                                                                              |difference                                       |
+|--------|---------------------------------------------------------------------------------|-------------------------------------------------|
+|sine    |$sin(A+B)=sin\,A\,cos\,B+cos\,A\,sin\,B$                                         |$sin(A-B)=sin\,A\,cos\,B-cos\,A\,sin\,B$         |
+|cosine  |$cos(A+B)=cos\,A\,cos\,B-sin\,A\,sin\,B$                                         |$cos(A-B)=cos\,A\,cos\,B+sin\,A\,sin\,B$         |
+|tangent |$sin(\frac{\pi}{2}-\theta)=cos\theta$A+B)=\frac{tan\,A+tan\,B}{1-tan\,A\,tan\,B}$|$tan(A-B)=\frac{tan\,A-tan\,B}{1+tan\,A\,tan\,B}$|
