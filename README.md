@@ -1,6 +1,6 @@
 # notes
 
-some notes for school
+some notes for school and other various things
 
 ## classes [booking]
 
