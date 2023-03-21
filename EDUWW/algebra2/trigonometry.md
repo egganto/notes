@@ -64,7 +64,7 @@ $$
 + diameter
   - the width of a circle, from edge to edge through a circle/sphere
 
-the ratio of the circumference of a circle is equal to $ \pi\,(3.14) $
+the ratio of the circumference of a circle is equal to $\pi(3.14)$
 
 $$
 \pi=\frac{C}{d}
@@ -75,7 +75,7 @@ $$
 C=\pi d
 $$
 
- and since $ 2r=d $, you can also use $ C=2\pi r $
+ and since $ 2r=d $, you can also use $C=2\pi r$
 
 ## the unit circle
 + has a radius of 1
@@ -176,7 +176,7 @@ $B_{tan}=\frac{\pi}{T}$
 
 # translating trigonometric graphs
 $$
-f(x)=A\,trig(B(\theta+C))+D
+f(x)=A\ trig(B(\theta+C))+D
 $$
 
     A = amplitude ("vertical stretch")
@@ -192,7 +192,7 @@ $$
 csc = \frac{1}{sin}
 $$
 
-+ is > 1 and < -1
++ is $>1$ and $<-1$
 + doesn't have an intercept
 + asymptote at multiples of 90
 
@@ -202,7 +202,7 @@ $$
 secant = \frac{1}{cosine}
 $$
 
-+ is > 1 and < -1
++ is $> 1$ and $< -1$
 + doesn't have an intercept
 + asymptote at 90 and then multiples of 180
 
@@ -242,4 +242,41 @@ $$
 |--------|---------------------------------------------------------------------------------|-------------------------------------------------|
 |sine    |$sin(A+B)=sin\,A\,cos\,B+cos\,A\,sin\,B$                                         |$sin(A-B)=sin\,A\,cos\,B-cos\,A\,sin\,B$         |
 |cosine  |$cos(A+B)=cos\,A\,cos\,B-sin\,A\,sin\,B$                                         |$cos(A-B)=cos\,A\,cos\,B+sin\,A\,sin\,B$         |
-|tangent |$sin(\frac{\pi}{2}-\theta)=cos\theta$A+B)=\frac{tan\,A+tan\,B}{1-tan\,A\,tan\,B}$|$tan(A-B)=\frac{tan\,A-tan\,B}{1+tan\,A\,tan\,B}$|
+|tangent |$sin(\frac{\pi}{2}-\theta)=cos\theta A+B)=\frac{tan\,A+tan\,B}{1-tan\,A\,tan\,B}$|$tan(A-B)=\frac{tan\,A-tan\,B}{1+tan\,A\,tan\,B}$|
+
+# double-angle identities
+
+| double angle identity   |                                    |
+| ------------------------|------------------------------------|
+| sine double angle       | $sin2\theta=2sin\theta cos\theta$  |
+| cosine double angle     | $cos2\theta=cos^2\theta-sin^2\theta$ <br> $cos2\theta=1-2sin^2\theta$ <br> $cos2\theta=2cos^2\theta-1$|
+
+# half-angle identities
+
+    sine half angle identity
+$$
+sin\frac{\theta}{2}=\pm\sqrt{\frac{1-cos\theta}{2}}
+$$
+
+    cosine half angle identity
+$$
+cos\frac{\theta}{2}=\pm\sqrt{\frac{1+cos\theta}{2}}
+$$
+
+# solving trigonometric functions
+## inverse trigonometry functions
+
+| trigonometric function | rule for finding second solution                                     |
+|:----------------------:|:--------------------------------------------------------------------:|
+| sine                   | deg: $180^\circ-\theta_1=\theta_2$ <br> rad: $\pi-\theta_1=\theta_2$ |
+| cosine                 | deg: $\theta_1=-\theta_2$ <br> rad: $\theta_1=-\theta_2$             |
+| tangent                | deg: $180^\circ+\theta_1=\theta_2$ <br> rad: $\pi+\theta_1=\theta_2$ |
+
+# all unit circle (photos) very cool!!
+
+| type | image |
+|-------|-----|
+| degree+radians with multiples of 90 coordinates | ![degree and radian measure](https://s3.amazonaws.com/cms.accelerate-ed.com/image/5dc7df75-9ef2-4c45-b8f8-eafa6a51eee7.jpg) |
+| cooler colored unit circle with degrees+radians+coordinates for each angle | ![unit circle](https://s3.amazonaws.com/cms.accelerate-ed.com/image/c920f3cb-9384-48d8-9d6a-f096a8556485.jpg) |
+| radians of degrees [1] | ![radians1](https://s3.amazonaws.com/content.accelerate-ed.com/Secondary/docs/Algebra2/new_assets/images/shutterstock_727047820.jpg) |
+| radians of degrees [2] | ![radians2](https://s3.amazonaws.com/content.accelerate-ed.com/Secondary/docs/Algebra2/new_assets/images/shutterstock_727047826.jpg) |
