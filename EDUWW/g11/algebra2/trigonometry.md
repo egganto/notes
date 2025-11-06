@@ -250,7 +250,7 @@ $$
 | ------------------------|--------------------------------------------------------------------------------------------------------|
 | sine double angle       | $sin2\theta=2sin\theta cos\theta$                                                                      |
 | cosine double angle     | $cos2\theta=cos^2\theta-sin^2\theta$ <br> $cos2\theta=1-2sin^2\theta$ <br> $cos2\theta=2cos^2\theta-1$ |
-| tangent double angle    | $tan2\theta=\frac{2tan\theta}{1-tan^2\theta}                                                           |
+| tangent double angle    | $tan2\theta=\frac{2tan\theta}{1-tan^2\theta}$                                                           |
 
 # half-angle identities
 
