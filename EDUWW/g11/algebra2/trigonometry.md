@@ -135,23 +135,24 @@ the numerator and denominator positions can be interchanged (flipped)
 $$
 a^2=b^2+c^2-2bc\cos(A)
 $$
-or
 $$
 \cos(A)=\frac{b^2+c^2-a^2}{2bc}
 $$
 
+---
+
 $$
 b^2=a^2+c^2-2ac\cos(B)
 $$
-or
 $$
 \cos(B)=\frac{a^2+c^2-b^2}{2ac}
 $$
 
+---
+
 $$
 c^2=a^2+b^2-2ab\cos(C)
 $$
-or
 $$
 \cos(C)=\frac{a^2+b+2-c^2}{2ab}
 $$
