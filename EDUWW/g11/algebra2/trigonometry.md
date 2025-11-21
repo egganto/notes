@@ -122,7 +122,7 @@ $$
   - side-side-angle (SSA, ambiguous)
 
 $$
-\frac{a}{sin\,A}=\frac{b}{sin\,B}=\frac{c}{sin\,C}
+\frac{a}{\sin(A)}=\frac{b}{\sin(B)}=\frac{c}{\sin(C)}
 $$
 
 the numerator and denominator positions can be interchanged (flipped)
@@ -133,13 +133,27 @@ the numerator and denominator positions can be interchanged (flipped)
   - side-side-side (SSS)
 
 $$
-a^2=b^2+c^2-2bc\,cos\,A
+a^2=b^2+c^2-2bc\cos(A)
 $$
+or
 $$
-b^2=a^2+c^2-2ac\,cos\,B
+\cos(A)=\frac{b^2+c^2-a^2}{2bc}
 $$
+
 $$
-c^2=a^2+b^2-2ac\,cos\,C
+b^2=a^2+c^2-2ac\cos(B)
+$$
+or
+$$
+\cos(B)=\frac{a^2+c^2-b^2}{2ac}
+$$
+
+$$
+c^2=a^2+b^2-2ab\cos(C)
+$$
+or
+$$
+\cos(C)=\frac{a^2+b+2-c^2}{2ab}
 $$
 
 # circular functions
