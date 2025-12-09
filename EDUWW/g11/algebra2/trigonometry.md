@@ -157,6 +157,21 @@ $$
 \cos(C)=\frac{a^2+b+2-c^2}{2ab}
 $$
 
+# area of a triangle
+
+$A=\frac{1}{2}bc\sin(A)$
+$A=\frac{1}{2}ac\sin(B)$
+$A=\frac{1}{2}ab\sin(C)$
+
+## heron's formula
+
+$$
+A=\sqrt{s(s-a)(s-b)(s-c)}
+$$
+
+s = semiperimeter
+perimeter: total of all sides
+
 # circular functions
 ## the unit circle
 ![unit circle](https://s3.amazonaws.com/cms.accelerate-ed.com/image/deff16f5-e540-4815-b9b2-d1377b8b38a4.jpg)
