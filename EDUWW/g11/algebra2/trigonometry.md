@@ -159,9 +159,9 @@ $$
 
 # area of a triangle
 
-$A=\frac{1}{2}bc\sin(A)$ \br
-$A=\frac{1}{2}ac\sin(B)$ \br
-$A=\frac{1}{2}ab\sin(C)$ \br
+$A=\frac{1}{2}bc\sin(A)$ <br>
+$A=\frac{1}{2}ac\sin(B)$ <br>
+$A=\frac{1}{2}ab\sin(C)$ <br>
 
 ## heron's formula
 
