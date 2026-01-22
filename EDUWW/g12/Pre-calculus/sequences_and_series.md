@@ -46,7 +46,8 @@ When $a_{n}$ is unknown: $S_{n}=\frac{n}{2}(2a_{1}+(n-1)d)$<br>
 
 ### Formulas
 $r = \frac{a_{n}}{a_{n-1}}$<br> 
-*the common ratio<br> 
+\*the common ratio <br> 
+
 $$
 a_{n}=a_{1} \cdot r^{n-1}
 $$
