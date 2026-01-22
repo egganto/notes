@@ -49,7 +49,7 @@ $r = \frac{a_{n}}{a_{n-1}}$<br>
 \*the common ratio <br> 
 
 $$
-a_{n}=a_{1} \cdot r^{n-1}
+a_{n}=a_{1}(r^{n-1})
 $$
 ---
 
