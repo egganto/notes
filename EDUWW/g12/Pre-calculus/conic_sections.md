@@ -40,7 +40,7 @@ Horizontal/Vertical boundaries: $\sqrt{a}/\sqrt{b}$
 
 $$
 a=\frac{1}{4c}
-$$
+$$ <br>
 distance from the vertex to the focus <br>
 
 <br>
@@ -58,3 +58,28 @@ $(x-h)+a(y-k)^2$ <br>
 | vertex     | a center or focused point                              |
 | focus      | on the interior (equidistant from the vertex)          |
 | directtrix | on the exterior (equidistant from the vertex)          |
+---
+
+## Lesson 5: Ellipses
+
+Horizontally elongated <br>
+$\frac{(x-h)^2}{a^2}+\frac{(y-k)^2}{b^2}=1$ <br>
+Vertically elongated <br>
+$\frac{(x-h)^2}{b^2}+\frac{(x-h)^2}{b^2}+\frac{(y-k)^2}{a^2}=1$ <br>
+<br>
+Major Axis = $\sqrt{a}$ <br>
+Minor Axis = $\sqrt{b}$ <br>
+Foci, c is the distance between the center and the foci. ($c^2=a^2-b^2$) <br>
+---
+
+## Lesson 7: Identifying the General Form of a Conic Section
+
+## vocab/words/definitions
+
+| term                | characteristics                                                                                         |
+| ---                 | ---                                                                                                     |
+| Complete the Square | A method of getting conics into standard form                                                           |
+| Circle              | Conic section with **two squared terms** and a **plus sign** between them with **equal denominators**   |
+| Hyperbola           | Conic section with **two squared terms** and a **minus sign** between them                              |
+| Parabola            | Conic section with only **one term** squared                                                            |
+| Ellipse             | Conic section with **two squared terms** and a **plus sign** between them with **unequal denominators** |
