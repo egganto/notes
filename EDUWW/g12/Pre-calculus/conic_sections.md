@@ -39,9 +39,8 @@ Horizontal/Vertical boundaries: $\sqrt{a}/\sqrt{b}$
 ## Lesson 4: Parabolas
 
 distance from the vertex to the focus <br>
-$$
-a=\frac{1}{4c}
-$$
+$$a=\frac{1}{4c}$$
+<br>
 Vertical Parabolas <br>
 $(y-k)=a(x-h)^2$ <br>
 Horizontal Parabolas <br>
