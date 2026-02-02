@@ -6,7 +6,7 @@ Distance Formula <br>
 $\frac{x_{2}+x_{1}}{2}, \frac{y_{2}+y_{1}}{2}$ <br>
 Midpoint Formula <br>
 $D=\sqrt{(x_{2}-x_{1})^2+{(y_{2}-y_{1}})^2}$ <br>
----
+
 
 ## Lesson 2: Circles
 
@@ -14,7 +14,7 @@ General Form: <br>
 $x^2+y^2+Dx+Ey+F=0$ <br>
 Standard Form: <br>
 $(x-h)^2+(y-k)^2=r^2$ <br>
----
+
 
 ## Lesson 3: Hyperbolas
 
@@ -34,13 +34,13 @@ Horizontal/Vertical boundaries: $\sqrt{a}/\sqrt{b}$
 - Use a and b to sketch a rectangle to help find vertices and asymptotes <br>
 - Use c to find each focus <br>
 - Sketch the hyperbola <br>
----
+
 
 ## Lesson 4: Parabolas
 
 $$
 a=\frac{1}{4c}
-$$ <br>
+$$
 distance from the vertex to the focus <br>
 
 <br>
@@ -58,7 +58,7 @@ $(x-h)+a(y-k)^2$ <br>
 | vertex     | a center or focused point                              |
 | focus      | on the interior (equidistant from the vertex)          |
 | directtrix | on the exterior (equidistant from the vertex)          |
----
+
 
 ## Lesson 5: Ellipses
 
@@ -70,7 +70,7 @@ $\frac{(x-h)^2}{b^2}+\frac{(x-h)^2}{b^2}+\frac{(y-k)^2}{a^2}=1$ <br>
 Major Axis = $\sqrt{a}$ <br>
 Minor Axis = $\sqrt{b}$ <br>
 Foci, c is the distance between the center and the foci. ($c^2=a^2-b^2$) <br>
----
+
 
 ## Lesson 7: Identifying the General Form of a Conic Section
 
