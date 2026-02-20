@@ -30,3 +30,60 @@ Vaporization: use $L_{v}$ (liquid <-> gas) <br>
 | sodium chloride | $4.81\cdot10^5$                |
 | oxygen          | $1.40\cdot10^4$                |
 | propane         | $1.07\cdot10^5$                |
+
+## Heat, Work, and Thermodynamic Processes
+
+Work Done by a Gas
+$$W=\frac{F}{A}(Ad)$$
+$$W=P(\Delta V)$$
+
+## First Law of Thermodynamics
+Energy cannot be created or destroyed, only transferred or transformed.
+$$
+\Delta U = Q - W
+$$
+U = internal energy of the system
+Q = heat transferred to or from the system
+W = work done on or by the system
+
+### Ideal Processes
+- Isothermal Process <br>
+Work $\leftrightarrow$ Heat <br>
+Temperature is constant, so U is constant too <br>
+$\Delta U = 0$ <br>
+$$
+Q = W
+$$
+
+- Isovolumetric Process <br>
+Heat $\leftrightarrow$ Internal Energy <br>
+The volume doesn't change, so no work is done <br>
+$W = 0$ <br>
+$$
+\Delta U = Q
+$$
+
+- Adiabatic Process <br>
+Work $\leftrightarrow$ Internal Energy <br>
+Work is done on/by the system, but no heat is transferred <br>
+$Q = 0$ <br>
+$$
+\Delta U = -W
+$$
+<br>
+If both $Q$ and $W$ are zero, then the equation would just become $U_{i} = U_{f}$.
+
+## Second Law of Thermodynamics
+In the long run, entropy (disorder) always increases. <br>
+More entropy = less energy available <br>
+Entropy always increases unless energy is added. <br>
+
+### Efficiency of Thermodynamic Processes
+**Efficiency of an Engine**
+$$
+eff = \frac{net\ work\ done\ by\ the\ engine}{heat\ added\ to\ the\ engine} = \frac{W_{net}}{Q_{h}}
+$$
+$$
+eff = 1 - \frac{energy\ removed\ as\ heat}{energy\ added\ as\ heat} = 1 - \frac{Q_{c}}{Q_{h}}
+$$
+![heating system, cooling system](second-law-of-thermodynamics-1.png)
