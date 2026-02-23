@@ -34,8 +34,8 @@ Vaporization: use $L_{v}$ (liquid <-> gas) <br>
 ## Heat, Work, and Thermodynamic Processes
 
 Work Done by a Gas <br>
-$$W=\frac{F}{A}(Ad)$$ <br>
-$$W=P(\Delta V)$$ <br>
+$W=\frac{F}{A}(Ad)$ <br>
+$W=P(\Delta V)$ <br>
 
 ## First Law of Thermodynamics
 Energy cannot be created or destroyed, only transferred or transformed. <br>
@@ -85,3 +85,85 @@ $$
 eff=1-\frac{energy\ removed\ as\ heat}{energy\ added\ as\ heat}=1-\frac{Q_{c}}{Q_{h}}
 $$
 ![heating system, cooling system](https://s3.amazonaws.com/cms.accelerate-ed.com/image/9670a193-ca2a-4a92-ab2f-bfddcbb753fb.png)
+
+## Fluids
+
+### Liquids and Gases
+Both liquids and gases can flow and take shape of the container, so they are both called **fluids**. The only difference is that a liquid has a definite volume and a gas does not. <br>
+
+### Fluid Pressure
+Air and water obey the concept of fluid pressure. The amount of pressure exerted by a fluid is based on the density of the fluid, gravity, and the height or depth at which the point of observation is. <br>
+(air pressure on the surface of the Earth, the depth would be equal to the depth of the atmosphere at that point). <br>
+
+$$
+P=\rho gh
+$$
+
+$P$ = pressure exerted by a stationary fluid <br>
+$\rho$ = density of the fluid <br>
+$g$ = acceleration of gravity <br>
+$h$ = depth of the fluid <br>
+
+| Substance | Density ($kg/m^3$) |
+| ---       | ---                |
+| water     | 997                |
+| gasoline  | 737                |
+| hydrogen  | 0.0899             |
+| air       | 1.29               |
+| iron      | 7.86 x $10^3$      |
+| mercury   | 1.36 x $10^4$      |
+| gold      | 1.93 x $10^4$      |
+
+### Archimedes's Principle
+The buoyant force of an object submerged is equal to the weight of the liquid it displaces. <br>
+
+$$
+F_{buoyant}=\rho V_{f}g
+$$
+
+$\rho$ = density of the fluid <br>
+$V_{f}$ = volume of the displaced fluid <br>
+$g$ = acceleteration of gravity <br>
+
+$$
+F_{buoyant}=m_{f}g=W_{f}
+$$
+
+$m_{g}$ = mass of the displacaed fluid <br>
+g = acceleration of gravity <br>
+$W_{f}$ = weight of the displaced fluid <br>
+
+$$
+F_{buoyant}=F_{g}-F_{aw}
+$$
+
+$F_{g}$ = weight of the object <br>
+$F_{aw}$ = apparent weight of the object <br>
+
+**Apparent Weight** <br>
+
+$$
+F_{net}=m\vec{a} =\vec{F}_{normal}+\vec{F}_{weight}
+$$
+
+### Sink or Float
+Density ($\frac{mass}{volume}$) is key to floating or sinking!!1 <br>
+
+<ins>3 simple rules:</ins>
+1. Object is __more dense__ than liquid = __sink__ <br>
+2. Object is __less dense__ than liquid = __floats__ <br>
+3. Object with __equal density__ to liquid = __no sink/float__ <br>
+
+| Object            | Density (kg/$m^3$) |
+| ---               | ---                |
+| cement            | 1201               |
+| coconut oil       | 924                |
+| maple syrup       | 1362               |
+| iron chips        | 2643               |
+| lima beans        | 721                |
+| ice               | 881                |
+| unshelled peanuts | 240                |
+| sandstone         | 1281               |
+
+### Pascal's Principle
+A change in pressure at any point in an enclosed fluid at rest is transmitted to all other points of the fluid, including the walls of the container.
