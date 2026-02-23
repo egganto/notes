@@ -7,7 +7,7 @@ $$Q=mc\Delta T$$
 ## Phase Changes & Latent Heat
 
 Equation for Latent Heat: <br>
-$Q=mL$
+$Q=mL$ <br>
 $Q=$ heat/energy <br>
 $m=$ mass <br>
 $L=$ latent heat <br>
@@ -41,7 +41,7 @@ $$W=P(\Delta V)$$ <br>
 Energy cannot be created or destroyed, only transferred or transformed. <br>
 $$
 \Delta U = Q - W
-$$ <br>
+$$
 U = internal energy of the system <br>
 Q = heat transferred to or from the system <br>
 W = work done on or by the system <br>
@@ -65,7 +65,7 @@ Work is done on/by the system, but no heat is transferred <br>
 $Q = 0$ <br>
 $\Delta U = -W$ <br>
 <br>
-If both Q and W are zero, then the equation would just become $U_{i} = U_{f}$.
+If both Q and W are zero, then the equation would just become $U_{i}=U_{f}$.
 
 ## Second Law of Thermodynamics
 In the long run, entropy (disorder) always increases. <br>
@@ -75,9 +75,9 @@ Entropy always increases unless energy is added. <br>
 ### Efficiency of Thermodynamic Processes
 **Efficiency of an Engine** <br>
 $$
-eff = \frac{net\ work\ done\ by\ the\ engine}{heat\ added\ to\ the\ engine} = \frac{W_{net}}{Q_{h}}
+eff=\frac{net\ work\ done\ by\ the\ engine}{heat\ added\ to\ the\ engine}=\frac{W_{net}}{Q_{h}}
 $$
 $$
-eff = 1 - \frac{energy\ removed\ as\ heat}{energy\ added\ as\ heat} = 1 - \frac{Q_{c}}{Q_{h}}
+eff=1-\frac{energy\ removed\ as\ heat}{energy\ added\ as\ heat}=1-\frac{Q_{c}}{Q_{h}}
 $$
 ![heating system, cooling system](https://s3.amazonaws.com/cms.accelerate-ed.com/image/9670a193-ca2a-4a92-ab2f-bfddcbb753fb.png)
