@@ -154,7 +154,7 @@ Density ($\frac{mass}{volume}$) is key to floating or sinking!!1 <br>
 2. Object is __less dense__ than liquid = __floats__ <br>
 3. Object with __equal density__ to liquid = __no sink/float__ <br>
 
-| Object            | Density (kg/$m^3$) |
+| Object            | Density ($kg/m^3$) |
 | ---               | ---                |
 | cement            | 1201               |
 | coconut oil       | 924                |
